@@ -1,0 +1,22 @@
+{
+  "name": "typeis",
+  "version": "1.0.0",
+  "description": "Test data type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oswald-Tu/typeis.git"
+  },
+  "keywords": [
+    "type"
+  ],
+  "author": "Oswald-Tu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oswald-Tu/typeis/issues"
+  },
+  "homepage": "https://github.com/Oswald-Tu/typeis#readme"
+}
