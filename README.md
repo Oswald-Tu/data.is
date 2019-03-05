@@ -1,4 +1,4 @@
-# typeis
+# data.is
 Test data type
 
 support:  
@@ -21,7 +21,7 @@ support:
   // return dataType  
   
 example:  
-  import Type from 'typeis';  
+  import Type from 'data.is';  
   console.log(Type.isObject('fdf')); // result: false  
   console.log(Type.isObject({ name: 'name1'})); // result: true  
   console.log(Type.getType('fewf')); // result: String
